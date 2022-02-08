@@ -61,7 +61,7 @@ class DynamicForm : AppCompatActivity() {
     lateinit var save: Button
     var screen_no:String = "";
     // var listFormData:List<FieldResponse> =  ArrayList<FieldResponse>()
-    // This is Dynamic activity and call api
+    // This is Dynamic activity and call api.
 
     var listFormData : ArrayList<FieldResponse> = ArrayList<FieldResponse>()
 
