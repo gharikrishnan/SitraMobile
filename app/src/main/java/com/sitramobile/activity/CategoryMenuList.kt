@@ -59,6 +59,10 @@ class CategoryMenuList : AppCompatActivity() {
 
 
     private fun callCategoryList() {
+        /*
+        this function is calling menu list
+        for category of item
+         */
         progressBar!!.visibility = View.VISIBLE
         //val apiInterface = ApiClient.client.create(ApiInterface::class.java)
         val call2 = ApiClient().categoryMenuList(
