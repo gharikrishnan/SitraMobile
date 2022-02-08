@@ -84,7 +84,11 @@ class CustomerList constructor() : AppCompatActivity() {
         }*/
     }
 
+
     private fun callCustomerList() {
+        /* this function is used to call http
+     request using retrofit
+      */
 
         progressBar!!.setVisibility(View.VISIBLE)
         if(isInternetAvailable()) {
