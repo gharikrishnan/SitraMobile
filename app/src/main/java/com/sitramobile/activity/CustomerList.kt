@@ -122,6 +122,9 @@ class CustomerList constructor() : AppCompatActivity() {
 
                 override fun onFailure(call: Call<List<CustomerModel>>, t: Throwable)
                 {
+                    /*
+                    this is failure comment response failure
+                    */
                     swipe_refresh!!.setRefreshing(false)
                     progressBar!!.setVisibility(View.GONE)
                     Log.e("Failure", "Fail")
