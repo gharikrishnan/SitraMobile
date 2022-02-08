@@ -49,7 +49,7 @@ class CategoryMenuList : AppCompatActivity() {
         recycler_view = findViewById<View>(R.id.recycler_view) as RecyclerView
 
         /*val layoutManager = GridLayoutManager(this, 2)
-        layoutManager.orientation = RecyclerView.VERTICAL
+        layoutManager.orientation = RecyclerView.VERTICAL.
         recycler_view!!.layoutManager = layoutManager*/
 
         callCategoryList()
