@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">SITRA</string>
+
+    <string-array name="operation">
+        <item>Independent</item>
+        <item>Parallel</item>
+    </string-array>
+
+    <!--Static text fields-->
+    <string name="select_masterdata">Master Data</string>
+    <string name="search_customer">Customer</string>
+    <string name="mLogout">Logout</string>
+    <string name="product_key">Product Key</string>
+    <string name="submit">Submit</string>
+    <string name="companylogo">companyLogo</string>
+    <string name="company_logo">Company Logo</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="5dp"
+    app:cardElevation="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10dp"
+        android:weightSum="1">
+
+        <TextView
+            android:id="@+id/category_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:gravity="center|start"
+            android:layout_marginLeft="5dp"
+            android:text="adidas PVT LTD"
+            android:lines="2"
+            android:textColor="@color/black"
+            android:textSize="15dp"
+            android:layout_weight="1" />
+
+        <ImageView
+            android:id="@+id/icon_drop"
+            android:layout_width="25dp"
+            android:layout_height="25dp"
+            android:layout_gravity="center"
+            android:padding="3dp"
+            android:rotation="-90"
+            android:src="@drawable/arrow"
+            app:tint="@color/colorPrimary" />
+
+    </LinearLayout>
+
+</androidx.cardview.widget.CardView>

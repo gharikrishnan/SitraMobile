@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProject/Sitra/Sitra/app/src/main/res/layout-sw600dp/activity_category_menu_list.xml" value="0.17149014778325122" />
+        <entry key="..\:/AndroidProject/Sitra/Sitra/app/src/main/res/layout/activity_customer_list.xml" value="0.15830800405268491" />
+        <entry key="..\:/AndroidProject/Sitra/Sitra/app/src/main/res/layout/activity_dynamic_form.xml" value="0.15830800405268491" />
+        <entry key="..\:/AndroidProject/Sitra/Sitra/app/src/main/res/layout/activity_machinematerdata.xml" value="0.15830800405268491" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout-sw600dp/activity_category_menu_list.xml" value="0.176171875" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout-sw600dp/activity_login.xml" value="0.19625" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.11" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout-sw600dp/activity_product_key.xml" value="0.18" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout-sw600dp/activity_splash_screen.xml" value="0.139453125" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout/activity_category_menu_list.xml" value="0.1859375" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout/activity_customer_list.xml" value="0.1859375" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout/activity_dynamic_form.xml" value="0.1859375" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout/activity_machinematerdata.xml" value="0.1859375" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout/activity_product_key.xml" value="0.25" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout/activity_splash_screen.xml" value="0.1859375" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout/commontoolbar.xml" value="0.139453125" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout/customer_list_row.xml" value="0.139453125" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout/dialog_master_or_form.xml" value="0.139453125" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout/dynamic_form_adapter.xml" value="0.139453125" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout/error_alert.xml" value="0.139453125" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout/formtoolbar.xml" value="0.139453125" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout/masterdata_form_adapter.xml" value="0.139453125" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/layout/sync_now.xml" value="0.21666666666666667" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/menu/customer_search.xml" value="0.139453125" />
+        <entry key="..\:/Users/harikrishnan/AndroidStudioProjects/Sitra/app/src/main/res/menu/maser_details.xml" value="0.139453125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
