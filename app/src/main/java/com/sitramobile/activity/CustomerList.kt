@@ -34,7 +34,9 @@ import java.util.*
 
 class CustomerList constructor() : AppCompatActivity() {
 
-
+    /* this is intiatization
+    and declaration
+     */
     var mToolbar: Toolbar? = null
     var empty_icon: ImageView? = null
     var empty_txt: TextView? = null
