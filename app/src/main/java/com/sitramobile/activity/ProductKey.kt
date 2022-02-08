@@ -19,6 +19,9 @@ class ProductKey : AppCompatActivity() {
     var login: Button? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        /* this is product key activity get product key automatically ,after open the application automatically
+         redirect to login activity
+         */
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_product_key)
 
